@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "ubiclient": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ubiclient"
+    }
+  },
+  "defaultProject": "ubiclient",
+  "cli": {
+    "analytics": "f7dd3f74-6779-4cce-9dff-dfac09ef0346"
+  }
 }
