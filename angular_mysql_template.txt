@@ -1,2 +1,18 @@
 ng new ubiclient --routing
+//En windows hay que activar la ejecucion de scripts en powershell
+
+
+//Agregando Google Maps a Angular
+$ npm install @agm/core --save
+
+
+//Generate new Component
+ng g c components/ubiqui
+
+
+//Centroide
+Latitude:  14.589282
+Longitude: -90.551469
+
+//API_KEY = AIzaSyDSzaXvA5D65loGW47U6NIy2Yfq5QlNEvg
 
