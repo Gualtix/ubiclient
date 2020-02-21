@@ -16,3 +16,7 @@ Longitude: -90.551469
 
 //API_KEY = AIzaSyDSzaXvA5D65loGW47U6NIy2Yfq5QlNEvg
 
+
+//After Git Clone
+npm i
+
